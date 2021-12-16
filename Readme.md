@@ -17,12 +17,10 @@ The `Game` class which uses all other classes & execute the game.
 
 To run the app:
 
-    python run.py
+    python main.py
 
 To run the test:
 
     python test.py
 
-Moves are read in from `moves.txt`.
-
-The output is written to `final_state.json`.
+Moves will be read in from `moves.txt`. The final state of knights & item will be written to `final_state.json`.
